@@ -13,6 +13,11 @@ I will mirror this repository to [Github](https://github.com/fyrfli/project-bird
 - I may amuse myself later on and build some real functionality into it but for now, it will remain a clone. 
 - I certainly feel like I want to change the color scheme because blue is so very obvious.
 
+---
+
 ## Observations
 
+**February 17, 2022**
+
 1. Working with two screens is SO much easier than working on a laptop screen, so much so that even though I really hate Windows, I may just try and move all my development to the desktop ... for now.
+
